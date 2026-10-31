@@ -148,7 +148,7 @@ Upload to GitHub Pages for free hosting.
 ```
 
 ## OUTPUT
-![alt text](image.png)
+![Portfolio Output](./output.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
